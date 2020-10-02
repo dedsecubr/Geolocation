@@ -3,7 +3,7 @@
 A javascript script to obtain the user's location
 
 ```bash
-Website:  https://dedsecurity.com
+Website:  https://www.dedsecurity.com
 Author:   Simon Kinjo
 Maintenance:  Simon Kinjo
 ```
